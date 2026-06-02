@@ -177,20 +177,4 @@ The application incorporates a background simulation layer to demonstrate system
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recommended).
 
-### Installation
-1. Clone the repository or navigate to the project directory:
-   ```bash
-   cd "c:\SUMMER PROJECTS\hospital management"
-   ```
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Launch the local development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
