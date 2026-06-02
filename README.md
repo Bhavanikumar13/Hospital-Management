@@ -172,9 +172,5 @@ The application incorporates a background simulation layer to demonstrate system
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recommended).
 
 
